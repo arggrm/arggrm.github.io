@@ -1,6 +1,0 @@
-# KEYBOARD | ASUS VIVOBOOK S15 (K3502ZA)
-
-![TECLADO]("COMPLETO.jpg")
-
-|TECLA|ACCIÓN|
-|----|-----|
